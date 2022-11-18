@@ -2,7 +2,7 @@
     "name": "redde/php-api-sdk",
     "description": "Redde API wrapper",
     "type": "library",
-    "keywords": ["online payment","payment integration","wigal","wigal solutions", "mobile money", "card payments"],
+    "keywords": ["redde","redde payments","online payment","payment integration","wigal","wigal solutions", "wigal vision", "mobile money", "card payments"],
     "homepage": "https://www.reddeonline.com/",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
+        "php": "^7.4",
         "ext-curl": "*",
         "ext-json": "*"
     },
